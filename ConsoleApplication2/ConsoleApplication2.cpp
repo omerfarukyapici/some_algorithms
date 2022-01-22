@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <cmath>
 #include <fstream>  
 #include <string>
@@ -15,12 +15,12 @@ int main()
 
     int testMessage();
     {
-        std::cout << "\nOmer Faruk Yapici'nin Bilgisayarindan selamlar. " << endl;
+        std::cout << "\nHello from Ömer's Computer. " << endl;
     }
    
 
 
-    //Klavyeden girilen 2 sayının toplamını, bölümünü, çarpımını yazdıran program.
+    //Program that calculates the sum, quotient and multiplication of 2 numbers entered from the keyboard.
 
 
    /*
